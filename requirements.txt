@@ -1,2 +1,5 @@
 flask
 requests
+pycryptodome
+protobuf
+protobuf_decoder
